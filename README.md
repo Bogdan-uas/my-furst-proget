@@ -1,5 +1,5 @@
-# my-furst-proget-irl
+# my-furst-proget
 
-my furst proget irl
+my furst proget
 
 This is my first project
